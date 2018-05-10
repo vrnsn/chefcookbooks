@@ -6,7 +6,7 @@ package 'ntp' do
   action:install
 end
 
-package 'vim-enhanced'
+package 'vim'
 
 package 'git'
 
