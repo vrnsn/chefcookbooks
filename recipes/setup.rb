@@ -6,6 +6,8 @@ package 'ntp' do
   action:install
 end
 
+package 'vim-enhanced'
+
 package 'git'
 
 file 'etc/motd' do
